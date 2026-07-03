@@ -1,0 +1,15 @@
+Buy Jordan1Low 6.5 Red 3 7999 2023-12-18 
+Buy NikeRunning 9 MidnightBlue 2 6999 2023-12-18 
+Buy AdidasSamba 10 Blue 3 10990 2023-12-18 
+Buy WorldBalance 7 Pink 6 12000 2023-12-18 
+Buy AdidasRunning 9 SkyBlue 7 1399 2023-12-18 
+Buy NikeHikingPrime 10 OrangeBlack 9 4500 2023-12-18 
+Buy Jordan1Mid 8.5 Mocha 8 7655 2023-12-18 
+Buy Jordan14 13 OliveGreen 5 13050 2023-12-18 
+Buy Jordan1Low 18 Black 10 5000 2023-12-18 
+Buy Jordan1High 8.5 MidnightPurple 2 15000 2023-12-18 
+Buy AdidasSuperStar 8 White 1 5500 2023-12-18 
+Sell AdidasSuperStar 8 White 1 5500 2023-12-18 
+Buy Jordan1Low 6.5 Red 1 7999 2024-03-15 
+Sell Jordan1Low 6.5 Red 1 7999 2024-03-15 
+Sell Jordan1Low 18 Black 2 5000 2024-03-15 

@@ -1,0 +1,15 @@
+Jordan1Low 6.5 Red 3 7999 
+NikeRunning 9 MidnightBlue 2 6999 
+AdidasSamba 10 Blue 3 10990 
+WorldBalance 7 Pink 6 12000 
+AdidasRunning 9 SkyBlue 7 1399 
+NikeHikingPrime 10 OrangeBlack 9 4500 
+Jordan1Mid 8.5 Mocha 8 7655 
+Jordan14 13 OliveGreen 5 13050 
+Jordan1Low 18 Black 10 5000 
+Jordan1High 8.5 MidnightPurple 2 15000 
+AdidasSuperStar 8 White 1 5500 
+AdidasSuperStar 8 White -1 5500 
+Jordan1Low 6.5 Red 1 7999 
+Jordan1Low 6.5 Red -1 7999 
+Jordan1Low 18 Black -2 5000 
